@@ -1,0 +1,6 @@
+C:\Users\DC\Desktop\Algoritmalar\Dijkstra Algoritması (En kısa yol)\Dijkstra Algoritmaso\Dijkstra Algoritmaso\bin\Debug\Dijkstra Algoritmaso.exe.config
+C:\Users\DC\Desktop\Algoritmalar\Dijkstra Algoritması (En kısa yol)\Dijkstra Algoritmaso\Dijkstra Algoritmaso\bin\Debug\Dijkstra Algoritmaso.exe
+C:\Users\DC\Desktop\Algoritmalar\Dijkstra Algoritması (En kısa yol)\Dijkstra Algoritmaso\Dijkstra Algoritmaso\bin\Debug\Dijkstra Algoritmaso.pdb
+C:\Users\DC\Desktop\Algoritmalar\Dijkstra Algoritması (En kısa yol)\Dijkstra Algoritmaso\Dijkstra Algoritmaso\obj\Debug\Dijkstra Algoritmaso.csprojResolveAssemblyReference.cache
+C:\Users\DC\Desktop\Algoritmalar\Dijkstra Algoritması (En kısa yol)\Dijkstra Algoritmaso\Dijkstra Algoritmaso\obj\Debug\Dijkstra Algoritmaso.exe
+C:\Users\DC\Desktop\Algoritmalar\Dijkstra Algoritması (En kısa yol)\Dijkstra Algoritmaso\Dijkstra Algoritmaso\obj\Debug\Dijkstra Algoritmaso.pdb
